@@ -106,13 +106,15 @@ Tensorflow
 Scikit-learn
 Streamlit
 tqdm
+gdown
 sla-cli
+pathlib
 ```
 
 
 ### 
 Download the models' weights from the provided link and move them into the appropriate directory: 
-[Models' Weights](https://drive.google.com/drive/folders/1n6wkDa-Qm6dtRgk37f01gPJmU7z7Iyew?usp=sharing)
+[Models' Weights](https://drive.google.com/drive/folders/1fTel0NpMi1VRUDjkG7mN7iI53maRBQL9?usp=sharing)
 
 
 ### Download repository
