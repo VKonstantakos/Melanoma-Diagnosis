@@ -86,8 +86,8 @@ With weighted accuracy as the evaluation metric, the models performed as follows
 | ConvNet (baseline) | 67.0 % | 67.5 %  |
 | NasNet-Large | 81.5 % | 68.5 % |
 | DenseNet-201 | 78.5 % | 70.3 %  |
-| ResNet-50 | 83.7 % |  75.7 % |
 | InceptionResNet-v2 | 86.8 % | 78.8 %  |
+| ResNet-50 | 88.1 % |  79.0 % |
 | Inception-V3 | **95.3 %** | **83.6 %** |
 | EfficientNet-B3 | **95.0 %** | **84.7 %** |
 
