@@ -30,7 +30,7 @@ The live version can be found at:
 
 ## Demo
 
-![Demo](https://s6.gifyu.com/images/Melanoma-Detection-App.gif)
+![Demo](https://github.com/VKonstantakos/Melanoma-Diagnosis/blob/main/demo/Melanoma%20Detection%20App.gif)
 
 
   ## Table of contents
