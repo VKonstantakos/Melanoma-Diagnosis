@@ -14,7 +14,6 @@ In particular, it contains the code for the [ISIC 2018 Skin Lesion Classificatio
     VASC: Vascular lesion
 
 
-
 Motivated by this challenge, the goal was to build an accurate model with good generalization
 that can predict the diagnosis of any skin lesion. That is, given a dermoscopic or camera image,
 we want to correctly classify it, especially when involving a possible melanoma diagnosis.
@@ -22,8 +21,6 @@ we want to correctly classify it, especially when involving a possible melanoma 
 To accomplish that, we used the provided [HAM10000](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T) dataset with additional external data from
 [BCN20000](https://arxiv.org/abs/1908.02288) and [PAD-UFES-20](https://data.mendeley.com/datasets/zr7vgbcyr2/1),
 and implemented transfer learning using various CNN architectures (e.g., Inception-v3, ResNet-50, EfficientNet-B3).
-
-
 
 The goal of the project was also to deploy the final models as a web application.  
 The live version can be found at: 
@@ -90,6 +87,16 @@ With weighted accuracy as the evaluation metric, the models performed as follows
 | ResNet-50 | 88.1 % |  79.0 % |
 | Inception-V3 | **95.3 %** | **83.6 %** |
 | EfficientNet-B3 | **95.0 %** | **84.7 %** |
+
+#### ISIC 2018 Top 15 Leaderboard
+
+![image](https://user-images.githubusercontent.com/60272607/123580833-42036980-d7e3-11eb-84b2-010f75be59a5.png)
+
+
+##### Submission Result (Average of EfficientNet-B3 and Inception-V3)
+
+![image](https://user-images.githubusercontent.com/60272607/123580454-8e9a7500-d7e2-11eb-8ed4-3ba0c75b2eab.png)
+
 
 
 ## Installation 
