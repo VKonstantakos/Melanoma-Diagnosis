@@ -22,8 +22,9 @@ To accomplish that, we used the provided [HAM10000](https://dataverse.harvard.ed
 [BCN20000](https://arxiv.org/abs/1908.02288) and [PAD-UFES-20](https://data.mendeley.com/datasets/zr7vgbcyr2/1),
 and implemented transfer learning using various CNN architectures (e.g., Inception-v3, ResNet-50, EfficientNet-B3).
 
-The goal of the project was also to deploy the final models as a web application.  
-The live version can be found at: 
+The goal of the project was also to deploy the final models as a web application.
+
+The live version can be found at: [Melanoma Diagnosis Application](https://melanoma-diagnosis-app.herokuapp.com/)
 
 ## Demo
 
