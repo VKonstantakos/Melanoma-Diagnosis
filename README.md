@@ -24,7 +24,7 @@ and implemented transfer learning using various CNN architectures (e.g., Incepti
 
 The goal of the project was also to deploy the final models as a web application.
 
-The live version can be found at: [Melanoma Diagnosis Application](https://melanoma-diagnosis-app.herokuapp.com/)
+The live version can be found at: [Melanoma Diagnosis Application](https://melanoma-diagnosis-app.herokuapp.com/).
 
 ## Demo
 
