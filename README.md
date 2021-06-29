@@ -24,7 +24,9 @@ and implemented transfer learning using various CNN architectures (e.g., Incepti
 
 The goal of the project was also to deploy the final models as a web application.
 
-The live version can be found at: [Melanoma Diagnosis Application](https://melanoma-diagnosis-app.herokuapp.com/).
+Launch the web app here:
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/vkonstantakos/melanoma-app/main/app.py)
 
 ## Demo
 
