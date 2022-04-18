@@ -13,4 +13,3 @@ alive-progress
 patool
 fuzzywuzzy
 gdown==3.13.0
-pathlib==1.0.1
