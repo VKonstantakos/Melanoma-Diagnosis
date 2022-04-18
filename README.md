@@ -118,7 +118,6 @@ Streamlit
 tqdm
 gdown
 sla-cli
-pathlib
 ```
 
 
